@@ -1,5 +1,5 @@
 ### About
-- Recent graduate interested in Software and AI Engineering roles
+- Recent graduate interested in Software and AI Engineering roles in Atlanta, GA but also open to relocate
 - MS in Computer Engineering from Bilkent University (2022-2025)
 - BS in Computer Engineering from Yeditepe University (2018-2022)
 - Interests: Social Network Analysis, Natural Language Processing, Machine Learning, and Web Development
