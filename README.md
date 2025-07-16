@@ -6,7 +6,7 @@
 
 ### Recent projects
 - [Crowd](https://crowd.readthedocs.io): Social network simulation framework (Backend: Python, Frontend: JavaScript (Svelte, D3), [Library code](https://github.com/bilkent-sna/crowd), [UI code](https://github.com/bilkent-sna/crowd-ui)
-- Applications of Crowd in building energy modeling (consensus reaching with generative agents), [epidemiology](https://github.com/bilkent-sna/crowd/tree/master/crowd/docs/examples/generative_epidemic_agents), [influence maximization](https://github.com/bilkent-sna/crowd/tree/master/crowd/docs/examples/influence_maximization), and [networked trust games](https://github.com/bilkent-sna/crowd/tree/master/crowd/docs/examples/networked_trust_game)
+- Applications of Crowd in [building energy modeling (consensus reaching with generative agents)](https://github.com/bilkent-sna/negotiating-comfort-with-llm-agents), [epidemiology](https://github.com/bilkent-sna/crowd/tree/master/crowd/docs/examples/generative_epidemic_agents), [influence maximization](https://github.com/bilkent-sna/crowd/tree/master/crowd/docs/examples/influence_maximization), and [networked trust games](https://github.com/bilkent-sna/crowd/tree/master/crowd/docs/examples/networked_trust_game)
 - [Image classification with self-implemented DenseNet model](https://github.com/neserende/densenet-bc)
 - [Stance detection with DistilBERT and BiDirectional LSTM](https://github.com/HasanAlpCaferoglu/Stance-Detection-Streaming-Data)
 - [Emotion detection with DistilBERT](https://github.com/neserende/emotion-detection-topical-chat)
